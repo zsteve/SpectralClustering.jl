@@ -1,7 +1,7 @@
 name = "SpectralClustering"
 uuid = "a9453432-0461-11e9-1276-9b1ac3d3d0c6"
 authors = ["lucianolorenti <lucianolorenti@gmail.com>"]
-version = "0.1.2"
+version = "0.1.4"
 
 [deps]
 ArnoldiMethod = "ec485272-7323-5ecc-a04f-4719b315124d"
@@ -20,11 +20,9 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 [compat]
 ArnoldiMethod = "0"
 Arpack = "0"
-Clustering = "0.13"
+Clustering = "0"
 ColorTypes = "0"
 GraphRecipes = "0"
 LightGraphs = "1"
 NearestNeighbors = "0"
-Plots = "0, 1"
-StatsBase = "0"
 julia = "1"
